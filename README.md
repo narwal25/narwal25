@@ -126,14 +126,5 @@ BCA – 67.5%
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narwal25&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narwal25&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
-
 ⭐ **Thanks for visiting my profile!**  
 Feel free to explore my repositories or connect with me.
